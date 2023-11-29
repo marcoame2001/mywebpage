@@ -16,6 +16,7 @@ export const skillsList = [
   'C, C++',
   'Git',
   'Machine Learning',
+  'Odoo',
 ]
 
 export const projects = [
@@ -58,7 +59,7 @@ export const galeria = [
     title: 'Charles III University of Madrid',
     description: 'Computer Engineering, Minor in Computer Science, 2019-2023',
     image:
-      UC3M,
+    'https://echangesinternationaux.hec.ca/wp-content/uploads/2016/05/37696405594_932580b39e_o-1202x800.jpg',
     link: 'https://www.uc3m.es/Home',
   },
   {
