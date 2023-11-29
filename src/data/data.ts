@@ -1,7 +1,7 @@
 import GearPic from '../assets/images/gear.png';
 import AndroidPic from '../assets/images/android2.png';
-import MapPic from '../assets/images/map.png'
-
+import MapPic from '../assets/images/map.png';
+import UC3M from '../assets/images/uc3m.jpg';
 export const jobInfo = {
   title: "Software Engineer",
   company: "Weill Cornell Medicine"
@@ -58,14 +58,14 @@ export const galeria = [
     title: 'Charles III University of Madrid',
     description: 'Computer Engineering, Minor in Computer Science, 2019-2023',
     image:
-      'https://s1.eestatic.com/2023/05/03/sociedad/educacion/mejores-universidades/mejores-universidades-2023/760934112_232857863_1706x960.jpg',
+      UC3M,
     link: 'https://www.uc3m.es/Home',
   },
   {
     title: 'Norwegian University of Science and Technology',
     description:
       'Erasmus Scholarship, 2022-2023',
-    image: 'https://d1bvpoagx8hqbg.cloudfront.net/originals/ntnu-manana-920aa3874376dbf6d5919c9aa0bd5bc2.jpg',
+    image: 'https://www.wur.nl/upload/990e6607-de1e-4f18-884f-bf97ad8089e5_81013391_3317359488305521_954317019929378816_n.jpg',
     link: 'https://www.ntnu.edu/',
   },
 ]
