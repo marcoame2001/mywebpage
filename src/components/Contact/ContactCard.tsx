@@ -23,7 +23,7 @@ const ContactCard = (props: SkillProp) => {
   return (
     <Card sx={{ width: 350, minWidth: 270 }}>
       <CardContentStyled>
-        <LocalPhoneIcon sx={{ fontSize: 25, paddingRight: 2 }} />
+        <LocalPhoneIcon sx={{ fontSize: 22, paddingRight: 2 }} />
         <Typography variant="h4" component="span">
           {props.skill}
         </Typography>
