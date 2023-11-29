@@ -19,7 +19,7 @@ export interface ProjectProps {
 
 const EducationCard = ({ title, description, image, link }: ProjectProps) => {
   return (
-    <Card sx={{ maxWidth: 650, minWidth: 200 }}>
+    <Card sx={{ maxWidth: 650, minWidth: 220 }}>
       <CardActionArea href={link}>
         <CardMedia
           component="img"
