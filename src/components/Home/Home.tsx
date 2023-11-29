@@ -41,7 +41,7 @@ const Home = () => (
           I'm a { jobInfo.title }
         </Typography>
         <Typography variant="subtitle1">
-         ⛰ Fueled by hiking
+         🏔️ Fueled by hiking
         </Typography>
 
         <Typography variant="subtitle1">
